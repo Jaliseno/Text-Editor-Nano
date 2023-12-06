@@ -37,6 +37,44 @@ nano kilatvm.txt
 ```
 &nbsp; &nbsp; Untuk menyimpan perubahan dan keluar dari Text Editor Nano dengan menekan `CTRL+X` kemudian tekan `Y` dan diakhiri dengan menekan `Enter`.
 
-#### 2. Melakukan Percobaan Edit pada File wp-config.php
+#### 2. Shortcut Text Editor Nano
+&nbsp; &nbsp; Berikut adalah beberapa shortcut umum yang digunakan dalam text editor Nano:
+- **Menyimpan File**
 
+&nbsp; Setelah mengedit atau membuat file, kita dapat menggunakan shortcut keyboard di bawah ini untuk menyimpan file dengan perubahan tanpa menutupnya.
+```
+Ctrl + O
+```
+- **Keluar dari Text Editor Nano**
 
+&nbsp; Banyak pengguna baru yang terus berjuang untuk keluar dari text editor Nano dengan benar. Jadi, untuk itu Anda bisa menggunakan shortcut keyboard di bawah ini:
+```
+Ctrl + X
+```
+Sebelum keluar dari editor, jika ada perubahan yang belum disimpan, maka Nano akan meminta Anda untuk menyimpannya sebelum keluar.
+
+- **Memindahkan kursor**:
+
+&nbsp; Untuk memilih baris pada editor atau teks tertentu, kita dapat memindahkan kursor menggunakan tombol panah atau mouse
+
+- **Mengedit Teks**:
+
+&nbsp; Tidak seperti editor VIM, Anda tidak perlu menekan tombol `INSERT` untuk menambahkan teks ke file seperti editor teks GUI Linux pada umumnya, kita dapat langsung mengetik atau menghapus teks.
+
+- **Memotong, Menyalin & Menempel di Text Editor Nano**
+
+&nbsp; Untuk memudahkan kita dalam menyalin, memotong dan menempel text pada text editor Nano. Anda bisa menggunakan shortcut keyboard di bawah ini:
+```
+Ctrl + K: Memotong (cut) teks dari posisi kursor ke akhir baris.
+Ctrl + U: Memotong (cut) teks dari posisi kursor ke awal baris.
+Ctrl + Y: Menempelkan (paste) teks yang telah dipotong atau disalin.
+Ctrl + C: Menyalin teks yang dipilih.
+```
+
+- **Undo & Redo di Text Editor Nano**
+
+&nbsp; Untuk memudahkan kita dalam mengurungkan dan mengulangi pengeditan text pada text editor Nano. Anda bisa menggunakan shortcut keyboard di bawah ini:
+```
+Alt + U untuk membatalkan perubahan terakhir.
+Alt + R untuk mengulangi perubahan terakhir.
+```
