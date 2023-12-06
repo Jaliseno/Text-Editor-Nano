@@ -53,7 +53,7 @@ Ctrl + X
 ```
 Sebelum keluar dari editor, jika ada perubahan yang belum disimpan, maka Nano akan meminta Anda untuk menyimpannya sebelum keluar.
 
-- **Memindahkan kursor**:
+- **Memindahkan kursor**
 
 &nbsp; Untuk memilih baris pada editor atau teks tertentu, kita dapat memindahkan kursor menggunakan tombol panah atau mouse
 
@@ -78,3 +78,24 @@ Ctrl + C: Menyalin teks yang dipilih.
 Alt + U untuk membatalkan perubahan terakhir.
 Alt + R untuk mengulangi perubahan terakhir.
 ```
+
+- **Mencari dan Mengganti**
+
+&nbsp; Untuk memudahkan kita dalam mencari dan mengganti script pada text editor Nano. Anda bisa menggunakan shortcut keyboard di bawah ini:
+```
+Ctrl + W untuk mencari teks tertentu dalam file di Nano editor.
+Ctrl + R untuk mengganti teks tertentu dalam file.
+```
+
+- **Bantuan**
+
+&nbsp; Apabila Anda mengalami kesulitan pada saat menggunakan text editor Nano, maka Anda dapat melihat halaman bantuan text editor Nano dengan menggunakan shortcut keyboard di bawah ini:
+```
+Ctrl + G untuk menampilkan halaman bantuan Nano Editor dengan daftar perintah.
+```
+
+- **Keluar dengan Menyimpan atau Membuang Perubahan**
+
+&nbsp; Setelah Anda melakukan perubahan atau menambahkan file baru dan menggunakan shortcut keyboard `Ctrl + X`, maka nantinya Anda diberikan tiga pilihan yaitu dengan menekan huruf `Y` (Untuk Menyimpan), `C` (Untuk Membatalkan keluar) dan `N` (Untuk tidak menyimpan perubahan).
+
+
